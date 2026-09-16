@@ -1,7 +1,7 @@
 # html
-# randi
-* randi
-  ### randi
+# rand
+* rand
+  ### rand
   ``` sudo apt install```
   
   ```bash
